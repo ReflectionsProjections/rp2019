@@ -1,4 +1,7 @@
-@import url('https://fonts.googleapis.com/css?family=Raleway:200,300,600');
+@font-face {
+  font-family: 'Roboto mono';
+  src: url('../fonts/RobotoMono/RobotoMono-Regular.ttf') format('truetype');
+}
 
 html,body {
   height: 100%
@@ -9,7 +12,7 @@ body {
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
-  font-family: 'Raleway';
+  font-family: 'Roboto mono';
 }
 
 .logo {
@@ -22,13 +25,13 @@ body {
 }
 
 .brand-title {
-  font-family: 'Raleway';
+  font-family: 'Roboto mono';
   font-weight: 300;
   font-size: 1.7em;
 }
 
 .brand-description {
-  font-family: 'Raleway';
+  font-family: 'Roboto mono';
   font-weight: 200;
   font-size: 1.2em;
 }
@@ -37,7 +40,7 @@ body {
   font-weight: 600;
 }
 .coming-soon {
-  font-family: 'Raleway';
+  font-family: 'Roboto mono';
   font-weight: 600;
 }
 
