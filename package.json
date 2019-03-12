@@ -44,6 +44,7 @@
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "react-ga": "^2.5.7",
+    "react-image-mapper": "0.0.14",
     "react-inlinesvg": "^0.8.4"
   },
   "devDependencies": {
