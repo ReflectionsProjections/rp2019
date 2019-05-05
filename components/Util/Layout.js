@@ -8,6 +8,13 @@ class Layout extends Component {
   componentDidMount() {
     ReactGA.initialize('UA-134729747-1');
     ReactGA.pageview(window.location.pathname + window.location.search);
+    window.onscroll = function() {
+      if (document.body.scrollTop > 2050 || document.documentElement.scrollTop > 2050) {
+        document.getElementById("topBtn").style.display = "block";
+      } else {
+        document.getElementById("topBtn").style.display = "none";
+      }
+    };
   }
 
   render() {

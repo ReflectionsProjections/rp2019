@@ -42,6 +42,10 @@ const Index = () => (
       </div>
     </main>
 
+    <form action="#">
+      <button id="topBtn"><i class="fas fa-arrow-up"></i></button>
+    </form>
+
     <Element name="about">
       <About />
     </Element>
