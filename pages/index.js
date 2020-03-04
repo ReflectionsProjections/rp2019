@@ -63,7 +63,7 @@ const Index = () => {
                 Sept 16 - 21
               </h2>
               <h6 className={`animated fadeInUp ${styles.tagline}`}>
-                Celebrating 25 Years
+                Celebrating 26 Years
               </h6>
               <div>
                 <CountdownTimer className="animated fadeIn" />
