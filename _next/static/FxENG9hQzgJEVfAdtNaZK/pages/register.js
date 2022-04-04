@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[26],{1052:function(t,n,o){__NEXT_REGISTER_PAGE("/register",function(){return t.exports=o(1053),{page:t.exports.default}})},1053:function(t,n,o){"use strict";o.r(n);n.default=function(){return window.location="https://acmrp.typeform.com/to/Ujm2Vf",null}}},[[1052,0]]]);
